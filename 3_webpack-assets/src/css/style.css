@@ -1,0 +1,15 @@
+.title {
+  color: #000;
+  font-weight: 700;
+  font-size: 30px;
+
+  user-select: none;
+}
+
+.image-bg {
+  background-image: url("../img/wallpaper.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 500px;
+  height: 300px;
+}
